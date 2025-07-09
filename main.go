@@ -12,6 +12,7 @@ import (
 )
 
 func init() {
+	// test
 	// .envファイルから環境変数を読み込む
 	godotenv.Load()
 }
